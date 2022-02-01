@@ -1,21 +1,44 @@
-## Impact on *C. micronesica* populations
+# Impact on *C. micronesica* populations
 
-Marler, Thomas E., and John H. Lawrence. “Demography of Cycas Micronesica on Guam Following Introduction of the Armoured Scale Aulacaspis Yasumatsui.” Journal of Tropical Ecology 28, no. 3 (2012): 233–42.
+## Marler, Thomas E., and John H. Lawrence. “Demography of Cycas Micronesica on Guam Following Introduction of the Armoured Scale Aulacaspis Yasumatsui.” Journal of Tropical Ecology 28, no. 3 (2012): 233–42.
 
-Marler, Thomas E., and Murukesan V. Krishnapillai. “Longitude, Forest Fragmentation, and Plant Size Influence Cycas Micronesica Mortality Following Island Insect Invasions.” Diversity 12, no. 5 (May 2020): 194. https://doi.org/10.3390/d12050194.
+## Marler, Thomas E., and Murukesan V. Krishnapillai. “Longitude, Forest Fragmentation, and Plant Size Influence Cycas Micronesica Mortality Following Island Insect Invasions.” Diversity 12, no. 5 (May 2020): 194. https://doi.org/10.3390/d12050194.
 
-Donnegon, Joseph A., Sarah L. Buttler, Walter Grabowiecki, Bruce A. Hiserote, and David Limtiaco. “Guam’s Forest Resources, 2002,” 2004. http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf.
+## Donnegon, Joseph A., Sarah L. Buttler, Walter Grabowiecki, Bruce A. Hiserote, and David Limtiaco. “Guam’s Forest Resources, 2002,” 2004. http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf.
 
-Lazaro, Michelle, Olaf Kuegler, Sharon Stanton, Ashley Lehman, Joseph Mafnas, and Mikhail Yatskov. “Guam’s Forest Resources: Forest Inventory and Analysis, 2013.” Resour. Bull. PNW-RB-270. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. 43 p. 270 (2020). https://doi.org/10.2737/PNW-RB-270.
+## Lazaro, Michelle, Olaf Kuegler, Sharon Stanton, Ashley Lehman, Joseph Mafnas, and Mikhail Yatskov. “Guam’s Forest Resources: Forest Inventory and Analysis, 2013.” Resour. Bull. PNW-RB-270. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. 43 p. 270 (2020). https://doi.org/10.2737/PNW-RB-270.
 
 
-## Impact on *C. micronesica* individuals
+# Impact on *C. micronesica* individuals
 
-Marler, Thomas. “Increased Threat of Island Endemic Tree’s Extirpation via Invasion-Induced Decline of Intrinsic Resistance to Recurring Tropical Cyclones.” Communicative & Integrative Biology, June 26, 2013, e223611-223616. https://doi.org/10.4161/cib.22361.
+## Marler, Thomas. “Increased Threat of Island Endemic Tree’s Extirpation via Invasion-Induced Decline of Intrinsic Resistance to Recurring Tropical Cyclones.” Communicative & Integrative Biology, June 26, 2013, e223611-223616. https://doi.org/10.4161/cib.22361.
 
-## Biodiversity
+# Biodiversity/Cascading Impacts/Symbiosis/Pollinators
 
-Haynes, Jody, and Thomas E. Marler. “Exotic Invasive Pest Insect Critically Threatening Guam’s Flora , Fauna and Island Ecosystem,” 2005. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibg5n2-vj0AhX5SGwGHbFJCL8QFnoECAUQAQ&url=http%3A%2F%2Fwww.montgomerybotanical.org%2Fmedia%2FCAS%2FHaynes-Marler-Guam-CAS-Overview.pdf&usg=AOvVaw1mtuqo4K8qYL0_hiJII35J.
+## Haynes and Marler 2005 (haynesExoticInvasivePest2005)
+Haynes, Jody, and Thomas E. Marler. “Exotic Invasive Pest Insect Critically Threatening Guam’s Flora , Fauna and Island Ecosystem,” 2005.
+
+A second reason for funding this project is that fadang plants provide crucial food for other organisms. The fleshy, aromatic covering of fadang seeds is a preferred food item for the endangered Mariana fruit bat, Pteropus marianus marianus. Fadang is so resistant to most types of disturbance that its seeds are sometimes the only bat food item available in the forest following the destructive winds of a passing cyclone. Fewer than 100 Mariana fruit bats remain on Guam and it is unknown what effect the loss of fadang will have on these endangered bats. (For more information on Guam’s fruit bats, refer to the following website: http://www.fws.gov/pacific/pacificislands/wesa/marianabatindex.html.) We have only just begun our herbivory surveys of Cycas micronesica. In our preliminary work, we have identified the indigenous stem borer, Dihammus marianarum (Coleoptera: Cerambycidae), as a common cycad consumer. When these surveys are completed, there may be other native arthropod cycad consumers. Thus, the loss of this host species may also lead to the loss of several native species.
+
+A fourth reason for considering this a top priority for emergency funding is the nature of cycad pollination dynamics. We now know that cycads are pollinated almost exclusively by obligate insect pollinators (Norstog & Nicholls, 1997; Whitelock, 2002). We are attempting to identify the insect(s) which co-evolved with Guam’s cycad population as the pollinators. At the present time, so many of the habitats are infested with CAS that it is difficult to find individual cycads suitable for pollination studies. The probability of one or more endemic, obligate insect pollinators occurring on Guam is highly likely. These beneficial insects will also be lost along with Guam’s cycad population should we continue to stand by and let the CAS epidemic continue unchecked.
+
+#### fadang is an iconic plant}
+\begin{displaycquote}{haynesExoticInvasivePest2005}
+Our height increment data indicate that many of Guam’s coastal cycad plants are hundreds of years
+old. These plants have survived the Spanish-American War and two world wars; they have survived
+innumerable tropical cyclones; they have survived the invasion of intentionally introduced feral deer
+and pig populations and the accidental introduction of various insect species. Some of these individual
+plants “watched” Ferdinand Magellan and his fleet sail along Guam’s coast on 6 March 1521. And
+they endured the Spanish-Chamorro Wars that decimated the indigenous human population. Truly, the
+remaining plants comprise a long-lived botanical and cultural treasure, one that is in danger of
+disappearing forever. We simply cannot elect to continue to watch this tragedy without attempting to
+intervene. The impending cascade of detrimental effects is looming too large to justify apathy.
+\end{displaycquote}
+
+
+
+
+
 
 Lindstrom, Anders. “An Ancient Master: The Tricks and Trials of Cycas Micronesica | The Living Archive.” Accessed January 7, 2022. https://www.extinctionstories.org/2020/08/11/an-ancient-master-the-tricks-and-trials-of-cycas-micronesica/.
 
@@ -51,4 +74,3 @@ Marler, Thomas, and Paris Marler. “Rhyzobius Lophanthae Behavior Is Influenced
 Marler, T., and R. Muniappan. “Pests of Cycas Micronesica Leaf, Stem, and Male Reproductive Tissues with Notes on Current Threat Status.” MICRONESICA-AGANA- 39, no. 1 (2006): 1.
 
 Deloso, Benjamin E., L. Irene Terry, Lee S. Yudin, and Thomas E. Marler. “Biotic Threats to Cycas Micronesica Continue to Expand to Complicate Conservation Decisions.” Insects 11, no. 12 (December 2020): 888. https://doi.org/10.3390/insects11120888.
-
