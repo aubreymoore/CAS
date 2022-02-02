@@ -25,8 +25,19 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 \usepackage{csquotes}
 \usepackage{soul} % for hiliting text: \hl
 
-\usepackage[backend=biber, style=authoryear, maxbibnames=99, dashed=false]{biblatex}
-\setlength\bibitemsep{2\itemsep}
+%\usepackage[
+%%citestyle=authoryear,
+%backend=biber, 
+%style=authoryear, 
+%%maxbibnames=99, 
+%dashed=false]
+%{biblatex}
+
+%\usepackage[backend=biber, style=authoryear]{biblatex}
+
+\usepackage[refsection=part,citestyle=authoryear,style=apa,natbib=true,backend=biber, maxcitenames=2]{biblatex}
+
+%\setlength\bibitemsep{2\itemsep}
 \addbibresource{CASarticle.bib}
 %\addbibresource{CRB.bib}
 
@@ -104,13 +115,19 @@ An intriguing alternative is that CAS arrived on Guam as crawlers. For several y
 		\\\hline
 		2002 & An initial US Forest Service survey indicates that \textit{C. micronesica} is Guam's most abundant tree (with stem diameter greater than 5 inches) and estimates a population size of 1,571,556 \parencite{donnegon_guams_2004}
 		\\\hline
-		2003 & CAS first detected on ornamental \textit{Cycas revoluta} and \textit{C. micronesica} at hotels in Tumon Bay
+		2003 & CAS first detected on Guam infesting ornamental \textit{Cycas revoluta} and \textit{C. micronesica} at hotels in Tumon Bay
 		\\\hline
 		2006 & \textit{C. micronesica} added to the IUCN Red List of Endangered and Threatened Species
 		\\\hline
-		2013 & A second US Forest Service survey ranks \textit{C. micronesica}, misidentified in the report as \textit{C. circinalis}, is Guam's xxrd most abundant tree (with stem diameter greater than 5 inches) and estimates a population size of n,nnn,nnn \parencite{lazaroGuamForestResources2020a}
+		2008 & Seedlings from Guam established in a germplasm collection on Tinian because this island was assumed to be free of \textit{A. yasumatsui}
+		\\\hline
+		2013 & A second US Forest Service survey ranks \textit{C. micronesica}, (misidentified in the report as \textit{C. circinalis}) as Guam's xxrd most abundant tree (with stem diameter greater than 5 inches) and estimates a population size of n,nnn,nnn \parencite{lazaroGuamForestResources2020a}
 		\\\hline
 		2015 & \textit{C. micronesica} listed as a threatened species under the US Endangered Species Act \parencite{unitedstatesgovernmentEndangeredThreatenedWildlife2015}
+		\\\hline
+		2019 & Scale insects found infesting \textit{C. micronesica} in the Tinian germplasm conservation plots (Presumed to be CAS, but identification is still pending) \parencite{andersenairforcebaseCycadMonitoringManagement2021}.
+		\\\hline
+		2020 & Data from annual surveys of 120 permanent plots established in 12 habitats dispersed throughout Guam in 2005 show that the \textit{C. micronesica} suvival is 4\% of the initial population and no natural reproduction is occurring \parencite{marlerLongitudeForestFragmentation2020}
 		\\\hline
 	\end{tabular}	
 \end{table}
@@ -120,7 +137,7 @@ An intriguing alternative is that CAS arrived on Guam as crawlers. For several y
 	\includegraphics[width=\linewidth]{marler-stem-count}
 	
 	\caption{[From \cite{marlerLongitudeForestFragmentation2020}] The number
-		of Cycas micronesica stems per ha (all size categories) among 12 Guam habitats
+		of \textit{Cycas micronesica} stems per ha (all size categories) among 12 Guam habitats
 		from 2005 until 2020. The inset shows results from 2008 until 2020 with smaller vertical axis range. Ordinates of markers with the same letter are not significantly different.}
 	
 	\label{fig:marler-stem-count}
